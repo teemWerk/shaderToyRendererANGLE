@@ -1,0 +1,17 @@
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\shadertoyRendererEGL.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\shadertoyRendererEGL.pdb
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.shdertoyRenderer.resources
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.pdb
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\OpenTK.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\WpfGles.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\SharpDX.dll
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\SharpDX.Direct3D9.xml
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\SharpDX.xml
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\OpenTK.pdb
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\OpenTK.xml
+C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\WpfGles.pdb
