@@ -15,3 +15,14 @@ C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Deb
 C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\OpenTK.pdb
 C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\OpenTK.xml
 C:\Users\user\Documents\GitHub\shadertoyRendererEGL\shadertoyRendererEGL\bin\Debug\WpfGles.pdb
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\bin\Debug\shadertoyRendererEGL.dll
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\bin\Debug\shadertoyRendererEGL.pdb
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\bin\Debug\OpenTK.dll
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\bin\Debug\OpenTK.pdb
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\bin\Debug\OpenTK.xml
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.csprojResolveAssemblyReference.cache
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.Properties.Resources.resources
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.shdertoyRenderer.resources
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.csproj.GenerateResource.Cache
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.dll
+C:\Users\cantw\Documents\GitHub\shaderToyRendererANGLE\shadertoyRendererEGL\obj\Debug\shadertoyRendererEGL.pdb
